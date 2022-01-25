@@ -1,0 +1,12 @@
+.superInput {
+
+}
+
+.errorInput {
+    border: 3px solid lime;
+    background: green;
+}
+
+.error {
+    color: red;
+}
